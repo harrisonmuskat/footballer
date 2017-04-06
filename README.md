@@ -1,3 +1,16 @@
+## Footballer
+
+This app allows you to keep track of your fantasy football teams across the numerous available fantasy sites.
+
+## External sources
+Launch Academy's [sinatra-activerecord-starter-kit](https://github.com/LaunchAcademy/sinatra-activerecord-starter-kit)
+
+## To use
+- Clone the repo
+- Change into the repo directory and run `bundle`
+
+After bundling, rake commands should be available (run `rake -T` for the list) and you can build and seed the database with test data.
+
 ## Flash Notices
 
 Uses [Sinatra Flash](https://github.com/SFEley/sinatra-flash)
